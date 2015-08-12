@@ -3,7 +3,7 @@ Module for work with server of device [TheEyeTribe](theeyetribe.com).
 
 ##Install
 ```
-npm i --save theyetribe
+npm i --save theeyetribe
 ```
 
 ##Api
