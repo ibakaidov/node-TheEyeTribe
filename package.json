@@ -1,0 +1,19 @@
+{
+  "name": "theeyetribe",
+  "version": "0.1.0",
+  "description": " Module for work with theeyetribe.com device.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ibakaidov/node-TheEyeTribe"
+  },
+  "keywords": [
+    "TheEyeTribe",
+    "net"
+  ],
+  "author": "ibakaidov",
+  "license": "ISC"
+}
